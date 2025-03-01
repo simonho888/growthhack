@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "growth-test",
-    "slug": "growth-test",
+    "name": "Growth Journal",
+    "slug": "growth-journal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "description": "An app to record negative experiences and learn from them over time",
     "ios": {
       "supportsTablet": true
     },
